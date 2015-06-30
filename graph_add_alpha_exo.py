@@ -12,7 +12,7 @@ file_dir = 'C:/Users/af26/ProtectedAreaData/'
 
         
 root_folder = ('C:/Users/af26/LarvalDispersalResults/' +
-            'polcoms1990/Run_1000_baseline/')
+            'polcoms1990to2000/Run_1000_baseline/')
 
 filename = (root_folder + 'Networkdata/GraphCompose/' +
             'graph_compose_latlon.graphml')

@@ -9,7 +9,7 @@ import glob
 import networkx as NX
 
 root_folder = ('C:/Users/af26/LarvalDispersalResults/' +
-            'polcoms1998/Run_1000_baseline/')
+            'polcoms2000/Run_1000_baseline/')
 
 path = (root_folder + 'Networkdata/*.graphml')
 files = glob.glob(path)
