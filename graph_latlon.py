@@ -9,7 +9,7 @@ import networkx as NX
 import csv
 
 root_folder = ('C:/Users/af26/LarvalDispersalResults/' +
-            'polcoms1990to2000/Run_1000_baseline/')
+            'polcoms1990/Run_1000_longlife/')
 
 # read coordinates of mpa centres into a dictionary 
 
